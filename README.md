@@ -22,7 +22,7 @@
 得到1860条数据,对爬取到的数据进行诗歌分类，只保留五言绝句，五言律诗，七言绝句，七言律诗，剩下1100，去重后得到872条数据。
 
 
-![image](https://github.com/yyyy-lab/poem_generated_mengzi_t5/train_data/图片1.png)
+![image](train_data/图片1.png)
 
 3部分数据放到一起去重后得到36797条数据，其中0.02作为验证集，0.98作为训练数据
 
