@@ -1,0 +1,2 @@
+# poem_generated_mengzi_t5
+根据场景描述创作对应的古诗AI
